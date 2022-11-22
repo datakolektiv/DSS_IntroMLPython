@@ -11,6 +11,8 @@ The School will be hosted at **TBA** every **TBA**.<br>Asynchronous consultation
 ![Data Science School Intro ML Python](/img/IntroMLPython_Head.png)
 ---
 
+## PROGRAM
+
 ### Week 1.
 
 - **Saturday, December 3, 09:00 - 18:00 CET, Startit center, Belgrade**
